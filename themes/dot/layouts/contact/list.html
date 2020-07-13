@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ "<!-- contact -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title text-primary">{{ .Title }}</h2>
+        {{ .Content }}
+
+      </div>
+      <div class="col-12">
+        <div id="i67Spnt"><script type="text/JavaScript" src="https://survey.porsline.ir/embed/i67Spnt/?height=100%;width=100%;border=none;"></script></div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- /contact -->" | safeHTML }}
+
+{{ end }}

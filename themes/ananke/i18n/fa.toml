@@ -1,0 +1,35 @@
+[more]
+other = "بیشتر"
+
+[allTitle]
+other = "تمام {{.Title }}"
+
+[recentTitle]
+other = "اخیر {{.Title }}"
+
+[readMore]
+other = "مطالعه‌ی بیشتر"
+
+[whatsInThis]
+other = "چه چیزی در {{ .Type }} وجود دارد؟"
+
+[related]
+other = "مرتبط"
+
+[yourName]
+other = "نام شما"
+
+[emailAddress]
+other = "آدرس ایمیل"
+
+[message]
+other = "پیام"
+
+[emailRequiredNote]
+other = "یک آدرس ایمیل ضروری است."
+
+[send]
+other = "ارسال"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
