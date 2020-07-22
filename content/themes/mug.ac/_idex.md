@@ -1,7 +1,7 @@
 ---
-title: "mug.ac"
+title: "ماگ"
 ---
-## Very short description of the package
+
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-mug.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-mug)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-mug.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-mug)
@@ -10,7 +10,7 @@ title: "mug.ac"
 
 ## Installation
 
-You can install the package via composer:
+:You can install the package via composer
 
 ```bash
 composer require dpsoft/mehr4-theme-mug
@@ -34,15 +34,3 @@ ___
 
 جهت تغییر لوگوی سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به لوگو را در این قسمت اپلود کنید.اسم فایل باید logo_mug.jpg باشد و سایز عکس 233*450 باشد.
 
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [mahdavi](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

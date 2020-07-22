@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>قالب ها on سامانه آموزش مجازی مهر</title>
+    <link>https://docs.mehrlms.ir/themes/</link>
+    <description>Recent content in قالب ها on سامانه آموزش مجازی مهر</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>سامانه‌ی آموزش مجازی [مهر](https://mehrlms.ir)</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="https://docs.mehrlms.ir/themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cofeherfe.ir</title>
+      <link>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</guid>
+      <description>Very short description of the package  
+Bookflare(bootstrap)
+Installation You can install the package via composer:
+composer require dpsoft/mehr4-theme-cofeherfe php artisan mehr4-theme-cofeherfe:install Usage راهنمای مدیریت سایت cofeherfe
+ تغییر تصاویر تغییر لوگو جهت تغییر لوگوی سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به لوگو را در این قسمت اپلود کنید.اسم فایل باید logo.</description>
+    </item>
+    
+    <item>
+      <title>mug.ac</title>
+      <link>https://docs.mehrlms.ir/themes/mug.ac/_idex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.mehrlms.ir/themes/mug.ac/_idex/</guid>
+      <description>Very short description of the package  
+Installation You can install the package via composer:
+composer require dpsoft/mehr4-theme-mug php artisan mehr4-theme-mug:install Usage **راهنمای مدیریت سایت mug **
+ تغییر تصاویر تغییر آیکون سایت جهت تغییر آیکون سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به آیکون را در این قسمت اپلود کنید.اسم فایل باید favicon.</description>
+    </item>
+    
+  </channel>
+</rss>

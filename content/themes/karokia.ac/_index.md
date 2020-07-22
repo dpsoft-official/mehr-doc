@@ -1,8 +1,8 @@
 ---
-title: "karokia.ac"
+title: "کاروکیا"
 ---
 
-# Very short description of the package
+
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-minimal.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-minimal)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-minimal.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-minimal)
@@ -11,7 +11,7 @@ title: "karokia.ac"
 
 ## Installation
 
-You can install the package via composer:
+:You can install the package via composer
 
 ```bash
 composer require dpsoft/mehr4-theme-minimal
@@ -98,16 +98,3 @@ ___
 ### تغییر تعداد ساعات دوره های آموزشی در صفحه اصلی
 جهت تغییر در همین مسیر بالا متغییر مربوط به نام number.hours را تغییر دهید.
 ___
-
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [mahdavi](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

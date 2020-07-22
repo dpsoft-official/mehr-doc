@@ -1,12 +1,12 @@
 ---
-title: "iranhoor.ir"
+title: "ایران هور"
 ---
-# Very short description of the package
+
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-partoart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-partoart)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-partoart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-partoart)
 
-BeTheme-(meeting)
+
 
 ![my package](iranhoor.jpg)
 
@@ -93,19 +93,4 @@ ___
 ___
 
 
-
-
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [zahrayavari](http://mygitlab.ir/dpsoft)
-
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.
 

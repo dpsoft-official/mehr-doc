@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="365555ab-944f-4ab6-a703-cb46cd3c89b7" name="mehrlms" url="http://docs.mehrlms.ir">
+        <fileTransfer rootFolder="/home/mehrlms/domains/docs.mehrlms.ir/public_html" accessType="SFTP" host="mehrlms.ir" port="22" sshConfigId="c2873f58-4a85-47f3-9b65-daab02e09bc3" sshConfig="mehrlms@mehrlms.ir:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

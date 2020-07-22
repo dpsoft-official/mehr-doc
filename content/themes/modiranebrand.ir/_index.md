@@ -1,12 +1,12 @@
 ---
-title: "modiranebrand.ir"
+title: "مدیران برند"
 ---
-## Very short description of the package
+
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-modiranebrand.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiranebrand)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-modiranebrand.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiranebrand)
 
-BeTheme-employment
+
 
 ![my package](modiranebrand.png)
 
@@ -93,16 +93,3 @@ ___
 ### تغییر توضیح دوره ها در صفحه اصلی
 جهت تغییر در همین مسیر بالا متغییر مربوط به نام course-about را تغییر دهید.
 ___
-
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [mahdavi](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

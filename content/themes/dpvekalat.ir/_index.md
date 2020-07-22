@@ -1,17 +1,17 @@
 ---
-title: "honareforoush.ir"
+title: "وکالت"
 ---
-## Very short description of the package
+
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-dpvekalat.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-dpvekalat)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-dpvekalat.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-dpvekalat)
 
-BeTheme-blogger2
+
 
 ![my package](dpvekalat.jpg)
 ## Installation
 
-You can install the package via composer:
+:You can install the package via composer
 
 ```bash
 composer require dpsoft/mehr4-theme-dpvekalat
@@ -62,15 +62,3 @@ ___
 
 برای تغییر نام دانش آموختگان متغییرهای student.name1 تا student.name6 را تغییر دهید.
 
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [mahdavi](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

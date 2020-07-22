@@ -2,18 +2,17 @@
 title: "modiradad.ir"
 ---
 
-## Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-modiradad.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiradad)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-modiradad.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiradad)
 
-BeTheme
+
 
 ![my package](modiradad.png)
 
 ## Installation
 
-You can install the package via composer:
+:You can install the package via composer
 
 ```bash
 composer require dpsoft/mehr4-theme-modiradad
@@ -133,15 +132,3 @@ ___
   
 جهت تغییر در همین مسیر بالا ، متغیر عنوان محتوای آموزشی 1 تا 4 را تغییر دهید
 ___
-
-### Security
-
-If you discover any security related issues, please email sadeghpm@gmail.com instead of using the issue tracker.
-
-## Credits
-
-- [zahrayavari](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

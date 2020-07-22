@@ -3,37 +3,20 @@ title: "سوالات متداول"
 draft: false
 ---
 
-{{< faq "تست" >}}
-
-test
-
-
+{{< faq " پسورد خود را فراموش کرده ام,چگونه می توانم آن را بازیابی کنم؟" "q1" >}}
+ برای بازیابی پسورد ایمسل خود را وارد کرده و لینک تغییر پسورد برای شما ارسال می شود.برای توضیحات بیشتر به [بازیابی پسورد](../administration/system) مراجعه نمایید.
 {{</ faq >}}
 
-{{< faq "Discounts for students and Non Profit Organizations?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq " چگونه می توانم لوگوی سایت را تغییر دهم؟" "q2" >}}
+برای تغییر لوگوی سایت به مدیریت فایل مراجعه نمایید سپس به پوشه theme رفته و تصویر موردنظرتان را با نام مربوطه آپلود کنید. مثلا اگر نام لوگو در قالب شما logo.png ذخیره شده هنگام تغییر تصویر نیز باید لوگوی جدید را با همان نام اپلود کنید. برای تغییر لوگو بهتر است فایل readme قالب خود را مطالعه نمایید.
 {{</ faq >}}
 
-{{< faq "I need something unique, Can you make it?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq " صورتحساب ها نمایش داده نمی شوند ,چگونه می توانم آنها را مشاهده کنم؟" "q3" >}}
+اگر صورتحساب ها نمایش داده نمی شوند, وضعیت صورتحساب ها را "همه" انتخاب کنید. توجه کنید اگر قصد دارید نوع خاصی از صورتحساب ها نمایش داده شوند باید فیلتر وضعیت را تغییر دهید.   
 {{</ faq >}}
 
-{{< faq "Is there any documentation and support?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq " چگونه می توانم لیست کاربران را به صورت اکسل دانلود کنم؟" "q4" >}}
+برای اینکار کاربرانی را که مدنظر دارید تیک می زنید و از باکس عملیات که نمایش داده می شود گزینه دانلود اکسل را انتخاب می کنید.
 {{</ faq >}}
 
-{{< faq "Any refunds?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
-{{</ faq >}}
 
-{{< faq "What is a product key?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
-{{</ faq >}}
-
-{{< faq "Where do I download the file to?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
-{{</ faq >}}
-
-{{< faq "What happens after I download?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
-{{</ faq >}}
