@@ -13,28 +13,27 @@
     
     
     <item>
-      <title>cofeherfe.ir</title>
-      <link>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</guid>
-      <description>Very short description of the package  
-Bookflare(bootstrap)
-Installation You can install the package via composer:
-composer require dpsoft/mehr4-theme-cofeherfe php artisan mehr4-theme-cofeherfe:install Usage راهنمای مدیریت سایت cofeherfe
- تغییر تصاویر تغییر لوگو جهت تغییر لوگوی سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به لوگو را در این قسمت اپلود کنید.اسم فایل باید logo.</description>
-    </item>
-    
-    <item>
-      <title>mug.ac</title>
+      <title>ماگ</title>
       <link>https://docs.mehrlms.ir/themes/mug.ac/_idex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docs.mehrlms.ir/themes/mug.ac/_idex/</guid>
-      <description>Very short description of the package  
-Installation You can install the package via composer:
+      <description>Installation :You can install the package via composer
 composer require dpsoft/mehr4-theme-mug php artisan mehr4-theme-mug:install Usage **راهنمای مدیریت سایت mug **
- تغییر تصاویر تغییر آیکون سایت جهت تغییر آیکون سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به آیکون را در این قسمت اپلود کنید.اسم فایل باید favicon.</description>
+ تغییر تصاویر تغییر آیکون سایت جهت تغییر آیکون سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به آیکون را در این قسمت اپلود کنید.اسم فایل باید favicon.png باشد.
+ تغییر لوگو header جهت تغییر لوگوی سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به لوگو را در این قسمت اپلود کنید.</description>
+    </item>
+    
+    <item>
+      <title>کافه حرفه</title>
+      <link>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.mehrlms.ir/themes/cofeherfe.ir/_indx/</guid>
+      <description>Bookflare(bootstrap)
+Installation You can install the package via composer:
+composer require dpsoft/mehr4-theme-cofeherfe php artisan mehr4-theme-cofeherfe:install Usage راهنمای مدیریت سایت cofeherfe
+ تغییر تصاویر تغییر لوگو جهت تغییر لوگوی سایت ،ابتدا وارد سامانه می شویم و در سامانه از طریق منوی سمت راست ،در قسمت مدیریت فایل وارد پوشه theme شوید و فایل مربوط به لوگو را در این قسمت اپلود کنید.اسم فایل باید logo.png باشد و سایز عکس 49*126 باشد.</description>
     </item>
     
   </channel>

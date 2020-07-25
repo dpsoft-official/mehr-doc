@@ -74,15 +74,15 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 ############################## social links ##############################
 [[params.social]]
 icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/dpsoft.ir/"
 
 [[params.social]]
 icon = "ti-video-clapper" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.aparat.com/mehrlms.ir"
   
 [[params.social]]
-icon = "" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/dpsoft-official"
   
 [[params.social]]
 icon = "" # themify icon pack : https://themify.me/themify-icons
