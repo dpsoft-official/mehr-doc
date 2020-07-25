@@ -1,18 +1,17 @@
 ---
-title: "pointart.ir"
+title: "پوینت آرت"
 ---
-## Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-pointart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-pointart)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-pointart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-pointart)
 
-Betheme-webdeveloper
+
 
 ![my package](pointart.jpg)
 
 ## Installation
 
-You can install the package via composer:
+:You can install the package via composer
 
 ```bash
 composer require dpsoft/mehr4-theme-pointart
@@ -85,15 +84,3 @@ ___
 ### تغییر متن مشخصات دوره ها در صفحه دوره ها
 جهت تغییر در همین مسیر بالا متغییرهای مربوط به نام های courseinfo.text1 تا courseinfo.text3 را تغییر دهید.
 ___
-
-### Security
-
-If you discover any security related issues, please email info@dpsoft.ir instead of using the issue tracker.
-
-## Credits
-
-- [mahdavi](http://mygitlab.ir/dpsoft)
-
-## License
-
-The Apache License 2. Please see [License File](LICENSE.md) for more information.

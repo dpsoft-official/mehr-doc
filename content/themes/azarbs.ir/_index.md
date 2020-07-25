@@ -6,7 +6,7 @@ title: "آذر"
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-azarbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-azarbs)
 [![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-azarbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-azarbs)
 
-BeTheme-(farmer)
+
 
 ![my package](azarbs.jpg)
 

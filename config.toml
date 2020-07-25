@@ -23,7 +23,7 @@ url = "start"
 weight = 1
 
 [[menu.main]]
-name = "مدیریت"
+name = "داشبورد مدیریت"
 url = "administration"
 weight = 2
 
@@ -77,15 +77,15 @@ icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-video-clapper" # themify icon pack : https://themify.me/themify-icons
 link = "#"
   
 [[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+icon = "" # themify icon pack : https://themify.me/themify-icons
 link = "#"
   
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 ################################ English Language ######################
