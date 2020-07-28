@@ -31,14 +31,6 @@
   </url>
   
   <url>
-    <loc>https://docs.mehrlms.ir/themes/dpe.ac/</loc>
-  </url>
-  
-  <url>
-    <loc>https://docs.mehrlms.ir/themes/odo.ac/</loc>
-  </url>
-  
-  <url>
     <loc>https://docs.mehrlms.ir/tags/</loc>
   </url>
   
@@ -51,11 +43,19 @@
   </url>
   
   <url>
+    <loc>https://docs.mehrlms.ir/themes/odo.ac/</loc>
+  </url>
+  
+  <url>
     <loc>https://docs.mehrlms.ir/themes/iranhoor.ir/</loc>
   </url>
   
   <url>
     <loc>https://docs.mehrlms.ir/administration/accounting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.mehrlms.ir/themes/dpe.ac/</loc>
   </url>
   
   <url>
