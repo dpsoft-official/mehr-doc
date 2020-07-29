@@ -4,7 +4,7 @@ baseURL = "https://docs.mehrlms.ir/"
 # theme
 theme = "dot"
 # site title
-title = "سامانه آموزش مجازی مهر"
+title = "راهنمای سامانه مهر"
 # disable language
 disableLanguages = []
 # google analytics
@@ -98,7 +98,7 @@ copyright = "سامانه‌ی آموزش مجازی [مهر](https://mehrlms.ir
 
 # banner
 [Languages.en.params.banner]
-title = "سامانه آموزش مجازی مهر"
+title = "راهنمای سامانه مهر"
 subtitle = "آموزش را سریع و اثربخش تجربه کنید"
 bg_image = "images/banner.jpg"
 placeholder = "سوالی دارید؟ "
