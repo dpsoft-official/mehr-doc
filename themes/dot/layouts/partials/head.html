@@ -6,7 +6,8 @@
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
+
+  <meta name="google-site-verification" content="sJk-OfzlhoL5XGGrLlofqSBnia5KFeA5qJVBg5UtLh8" />
   {{ "<!-- ** Plugins Needed for the Project ** -->" | safeHTML }}
   {{ "<!-- Bootstrap -->" | safeHTML }}
   <link rel="stylesheet" href="{{ `plugins/bootstrap/bootstrap.min.css` | absURL }}">
@@ -22,6 +23,7 @@
 
   {{ "<!-- fonts -->" | safeHTML }}
   <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v26.0.2/dist/font-face.css" rel="stylesheet" type="text/css" />
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
   <link
           rel="stylesheet"
           href="https://unpkg.com/@laylazi/bootstrap-rtl@4.5.0-1/dist/css/bootstrap-rtl.min.css">
@@ -58,5 +60,21 @@
 <script>hljs.initHighlightingOnLoad();</script>
 
 {{ template "_internal/google_analytics.html" . }}
+
+  <!-- Matomo -->
+  <script type="text/javascript">
+    var paq = window.paq || [];
+    / tracker methods like "setCustomDimension" should be called before "trackPageView" /
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="analytics.darkoobad.com/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '76']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
 
 </head>
