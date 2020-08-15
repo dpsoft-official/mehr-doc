@@ -81,7 +81,7 @@ title: "حسابداری"
 
 در این نوع از تراکنش ها کاربر به دوره دسترسی نخواهند داشت و فقط در صورتی که تراکنش دیگری با وضعیت موفق انجام دهد صورتحساب این خرید تکمیل شده خواهد بود.
 
-><i class='fas fa-exclamation-triangle' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-exclamation-triangle' style='font-size:20px;color:gray;margin-left:15px'></i>
 > پس از تکمیل خریدهای آنلاین نتیجه این تراکنش از طریق پیامک و ایمیل برای کاربران ارسال می شود.
 
 [بالا↑](#)
@@ -112,7 +112,7 @@ title: "حسابداری"
 
 ![](action11.png)
 
-><i class='fas fa-info' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-info' style='font-size:20px;color:gray;margin-left:15px'></i>
 > در نظر داشته باشید که پس از نمایش هر تراکنش می توانید منابع مرتبط با آن تراکنش را ببینید.عملیات های انجام شده روی هر تراکنش در این بخش قابل مشاهده هستند.
 
 
@@ -133,7 +133,7 @@ title: "حسابداری"
 
 وضعیت خرید های کارت به کارتی که لغو می شوند به "لغو شده" تغییر می یابند.
  
-><i class='fas fa-exclamation-triangle' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-exclamation-triangle' style='font-size:20px;color:gray;margin-left:15px'></i>
 > پس از تغییر وضعیت صورتحساب پیامک به صورت اتوماتیک برای کاربر ارسال می شود.
 
 
@@ -148,7 +148,7 @@ title: "حسابداری"
 ![](chk7.png)
 
 نتیجه بررسی چک نیز در نهایت از طریق پیامک ارسال خواهد شد.
-><i class='fas fa-info' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-info' style='font-size:20px;color:gray;margin-left:15px'></i>
 > پس از تغییر وضعیت صورتحساب پیامک نتیجه به صورت اتوماتیک برای کاربر ارسال می شود.
 
 [بالا↑](#)
@@ -187,11 +187,11 @@ title: "حسابداری"
 ![](filter1.png)
 
 
-><i class='fas fa-info' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-info' style='font-size:20px;color:gray;margin-left:15px'></i>
 >با نمایش هر صورتحساب منابع مرتبط با آن قابل مشاهده هستند و می توانید دوره ها، پرداخت ها،عملیات ها و جزئیات صورتحساب را بررسی نمایید.
 
 
-><i class='fas fa-exclamation-triangle' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-exclamation-triangle' style='font-size:20px;color:gray;margin-left:15px'></i>
 اگر صورتحساب های شما نمایش داده نمی شوند فیلتر وضعیت را تغییر دهید. 
 
 در ادامه به بررسی امکانات این منبع می پردازیم.
@@ -228,11 +228,12 @@ _ دانلود اکسل جزئیات صورتحساب
 تغییر وضعیت:
 برای تغییر وضعیت صورتحساب ها(مثلا برای تغییر وضعیت صورتحساب های در حال بررسی به تکمیل شده) ،ابتدا صورتحساب های موردنظر را انتخاب کنید و سپس عملیات تغییر وضعیت را انجام دهید.
 
-><i class='fas fa-info' style='font-size:20px;color:red;margin-left:15px'></i>
+><i class='fas fa-info' style='font-size:20px;color:gray;margin-left:15px'></i>
 >پس از تغییر وضعیت صورتحساب ها به تکمیل شده نتیجه به صورت پیامک برای کاربر ارسال می شود.
 
 کد رهگیری پستی:
 پس از ارسال محصول برای فراگیران کد رهگیری پستی به اطلاعات صورتحساب کاربر افزوده می شود. این کد برای بررسی وضعیت مرسوله، به صورت ایمیل و پیامک برای کاربران ارسال می شود.
+برای افزودن کد پستی به صورتحساب ها می توانید فیلتر منابع را تغییر دهید و صورتحساب های تکمیل شده که کد پستی ندارند را نمایش دهید.
 
 متن پیام ارسال شده برای کاربران:
 ![](sms.png)
