@@ -2,13 +2,7 @@
 title: "هنر فروش"
 ---
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-honarforoush.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-honarforoush)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-honarforoush.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-honarforoush)
-
-
-
-![my package](honareforoush.jpg)
+![my package](honareforoush.ir.png)
 
 
 ## Installation

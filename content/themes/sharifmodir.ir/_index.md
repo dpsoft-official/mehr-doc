@@ -2,14 +2,7 @@
 title: "شریف مدیر"
 ---
 
-
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-sharifmodir.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-sharifmodir)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-sharifmodir.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-sharifmodir)
-
-
-
-![my package](sharifmodir.jpg)
+![my package](sharifmodir.ir.png)
 
 ## Installation
 

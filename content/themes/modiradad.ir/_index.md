@@ -2,13 +2,7 @@
 title: "مدیر عدد"
 ---
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-modiradad.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiradad)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-modiradad.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-modiradad)
-
-
-
-![my package](modiradad.png)
+![my package](modiradad.ir.png)
 
 ## Installation
 

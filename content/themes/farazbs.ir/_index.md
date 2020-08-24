@@ -2,13 +2,7 @@
 title: "فراز"
 ---
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-farazbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-farazbs)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-farazbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-farazbs)
-
-
-
-![my package](farazbs.png)
+![my package](farazbs.ir.png)
 
 
 ## Installation

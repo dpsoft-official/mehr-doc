@@ -2,13 +2,7 @@
 title: "وکالت"
 ---
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-dpvekalat.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-dpvekalat)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-dpvekalat.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-dpvekalat)
-
-
-
-![my package](dpvekalat.jpg)
+![my package](dpvekalat.ir.png)
 ## Installation
 
 :You can install the package via composer

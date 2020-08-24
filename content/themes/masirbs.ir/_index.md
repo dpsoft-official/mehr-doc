@@ -2,13 +2,7 @@
 title: "مسیر"
 ---
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-masirbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-masirbs)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-masirbs.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-masirbs)
-
-
-
-![my package](masirbs.png)
+![my package](masirbs.ir.png)
 
 ## Installation
 

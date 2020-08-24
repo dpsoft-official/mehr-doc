@@ -3,13 +3,7 @@ title: "پرتو آرت"
 ---
 
 
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-partoart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-partoart)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-partoart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-partoart)
-
-
-
-![my package](parto.jpg)
+![my package](partoartdigital.ir.png)
 
 
 ## Installation

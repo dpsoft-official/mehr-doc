@@ -2,12 +2,8 @@
 title: "پوینت آرت"
 ---
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-pointart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-pointart)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-pointart.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-pointart)
 
-
-
-![my package](pointart.jpg)
+![my package](pointart.ir.png)
 
 ## Installation
 

@@ -1,13 +1,7 @@
 ---
 title: "کاروکیا"
 ---
-
-
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dpsoft/mehr4-theme-minimal.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-minimal)
-[![Total Downloads](https://img.shields.io/packagist/dt/dpsoft/mehr4-theme-minimal.svg?style=flat-square)](https://packagist.org/packages/dpsoft/mehr4-theme-minimal)
-
-![my package](karokia.jpg)
+![my package](karokia.ac.png)
 
 ## Installation
 
