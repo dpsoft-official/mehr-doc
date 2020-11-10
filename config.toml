@@ -44,10 +44,6 @@ weight = 5
 
 
 
-
-
-
-
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
@@ -57,7 +53,7 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # customize color
-primary_color = "#02007e"
+primary_color = "#dc3545"
 body_color = "#f9f9f9"
 text_color = "#636363"
 text_color_dark = "#242738"
@@ -78,7 +74,7 @@ link = "https://www.instagram.com/dpsoft.ir/"
 
 [[params.social]]
 icon = "ti-video-clapper" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.aparat.com/mehrlms.ir"
+link = "https://www.aparat.com/dpsoft"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons

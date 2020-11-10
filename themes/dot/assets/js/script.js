@@ -51,7 +51,7 @@
   images.wrap(function () {
     var image = $(this);
     if (!image.parent("a").length) {
-      return "<a href='" + image[0].src + "' data-featherlight='image'></a>";
+      return "<a href='" + image[0].src + "' class='fluffychicken'></a>";
     }
   });
 

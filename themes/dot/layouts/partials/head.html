@@ -17,6 +17,7 @@
 
   {{ "<!-- highlight -->" | safeHTML }}
   <link rel="stylesheet" href="{{ `plugins/highlight/hybrid.css` | absURL }}">
+  <link rel="stylesheet" href="{{ `plugins/magnific-popup/magnific-popup.css` | absURL }}">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
@@ -27,6 +28,8 @@
   <link
           rel="stylesheet"
           href="https://unpkg.com/@laylazi/bootstrap-rtl@4.5.0-1/dist/css/bootstrap-rtl.min.css">
+
+
   <style>
   :root{
     --primary-color:{{ .Site.Params.primary_color }};
@@ -45,8 +48,10 @@
 
 {{ "<!-- jquiry -->" | safeHTML }}
 <script src="{{ `plugins/jquery/jquery-1.12.4.js` | absURL }}"></script>
+<!--  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
 
-{{ "<!-- jquary ui -->" | safeHTML }}
+
+  {{ "<!-- jquary ui -->" | safeHTML }}
 <script src="{{ `plugins/jquery/jquery-ui.js`| absURL }}"></script>
 
 {{ "<!-- Bootstrap JS -->" | safeHTML }}
@@ -57,8 +62,15 @@
 
 {{ "<!-- highlight -->" | safeHTML }}
 <script src="{{ `plugins/highlight/highlight.pack.js` | absURL }}"></script>
+<script src="{{ `plugins/magnific-popup/magnific-popup.min.js` | absURL }}"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-
-{{ template "_internal/google_analytics.html" . }}
-
+  <script>
+    $(document).ready(function($) {
+      $('.fluffychicken').magnificPopup({
+        type: 'image'
+        // other options here
+        // end each line (except the last) with a comma
+      });
+    });
+  </script>
 </head>
