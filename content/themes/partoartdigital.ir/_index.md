@@ -6,17 +6,6 @@ title: "پرتو آرت"
 ![my package](partoartdigital.ir.png)
 
 
-## Installation
-
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-partoart
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 

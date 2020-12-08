@@ -5,18 +5,7 @@ title: "هنر فروش"
 ![my package](honareforoush.ir.png)
 
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-honarforoush
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
-____
 ## تغییر تصاویر
 
 ### تغییر لوگو

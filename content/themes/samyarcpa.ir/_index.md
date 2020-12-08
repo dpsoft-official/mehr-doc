@@ -4,21 +4,7 @@ title: "سامیار"
 
 ![my package](samyarcpa.ir.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-samyarcpa
-```
-```bash
-php artisan mehr4-theme-samyarcpa:install
-```
-
-## Usage
-
-
-**راهنمای  مدیریت سایت samyarcpa**
 ____
 ## تغییر تصاویر
 

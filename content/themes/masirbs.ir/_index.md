@@ -4,20 +4,8 @@ title: "مسیر"
 
 ![my package](masirbs.ir.png)
 
-## Installation
 
-:You can install the package via composer
 
-```bash
-composer require dpsoft/mehr4-theme-masirbs
-```
-```bash
-php artisan mehr4-theme-masirbs:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت masirbs**
 ____
 ## تغییر تصاویر
 

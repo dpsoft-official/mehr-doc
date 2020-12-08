@@ -5,21 +5,7 @@ title: "پوینت آرت"
 
 ![my package](pointart.ir.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-pointart
-```
-```bash
-php artisan mehr4-theme-pointart:install
-```
-
-## Usage
-
-
-**راهنمای  مدیریت سایت pointart**
 ____
 ## تغییر تصاویر
 

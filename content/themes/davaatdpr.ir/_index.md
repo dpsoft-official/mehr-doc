@@ -4,20 +4,7 @@ title: "دوات"
 
 ![my package](davaatdpr.ir.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-davaatdpr
-```
-```bash
-php artisan mehr4-theme-davaatdpr:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت davaatdpr**
 ____
 ## تغییر تصاویر
 

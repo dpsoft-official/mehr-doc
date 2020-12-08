@@ -5,17 +5,6 @@ title: "آذر"
 ![my package](azarbs.ir.png)
 
 
-## Installation
-
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-azarbs
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 

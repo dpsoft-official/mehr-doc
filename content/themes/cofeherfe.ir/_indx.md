@@ -4,20 +4,7 @@ title: "کافه حرفه"
 
 ![my package](cofeherfe.ir.png)
 
-## Installation
 
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-cofeherfe
-```
-```bash
-php artisan mehr4-theme-cofeherfe:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت cofeherfe**
 ____
 ## تغییر تصاویر
 

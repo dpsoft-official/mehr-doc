@@ -5,21 +5,6 @@ title: "فراز"
 ![my package](farazbs.ir.png)
 
 
-## Installation
-
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-farazbs
-```
-```bash
-php artisan mehr4-theme-farazbs:install
-``` 
-
-## Usage
-
-**راهنمای  مدیریت سایت farazbs**
-____
 ## تغییر تصاویر
 
 ### تغییر آیکون سایت

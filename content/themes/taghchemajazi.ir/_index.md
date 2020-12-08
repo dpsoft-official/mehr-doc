@@ -2,21 +2,9 @@
 title: "طاقچه"
 ---
 
-
 ![my package](taghchehmajazi.ir.png)
 
 
-## Installation
-
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-taghchemajazi
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 

@@ -4,17 +4,7 @@ title: "مدیر عدد"
 
 ![my package](modiradad.ir.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-modiradad
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 

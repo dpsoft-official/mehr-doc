@@ -4,17 +4,7 @@ title: "ایران هور"
 
 ![my package](iranhoor.ir.png)
 
-## Installation
 
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-iranhoor
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 
 ### تغییر لوگو

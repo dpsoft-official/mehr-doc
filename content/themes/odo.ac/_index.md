@@ -4,15 +4,7 @@ title: "اکسیژن"
 
 ![my package](odo.ac.png)
 
-## Installation
 
-:You can install the package via composer
-
-
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 ___

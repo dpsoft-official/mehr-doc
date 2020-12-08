@@ -3,21 +3,9 @@ title: "فراگیر"
 ---
 
 ![my package](pnu.ac.png)
+`
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-pnuac
-```
-```bash
-php artisan mehr4-theme-pnuac:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت pnuac**
 ____
 ## تغییر تصاویر
 

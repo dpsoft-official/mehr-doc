@@ -5,20 +5,6 @@ title: "کافه اتود"
 ![my package](cafeetude.ir.png)
 
 
-## Installation
-
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-cofeetude
-```
-```bash
-php artisan mehr4-theme-cofeetude:install
-``` 
-
-## Usage
-
-**راهنمای  مدیریت سایت cofeetude**
 ____
 ## تغییر تصاویر
 

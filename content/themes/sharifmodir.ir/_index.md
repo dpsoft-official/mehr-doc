@@ -4,17 +4,7 @@ title: "شریف مدیر"
 
 ![my package](sharifmodir.ir.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-sharifmodir
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت **
 ____
 ## تغییر تصاویر
 

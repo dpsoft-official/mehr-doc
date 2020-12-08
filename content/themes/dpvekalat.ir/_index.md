@@ -3,21 +3,8 @@ title: "وکالت"
 ---
 
 ![my package](dpvekalat.ir.png)
-## Installation
 
-:You can install the package via composer
 
-```bash
-composer require dpsoft/mehr4-theme-dpvekalat
-```
-```bash
-php artisan mehr4-theme-dpvekalat:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت dpvekalat**
-____
 ## تغییر تصاویر
 
 ### تغییر لوگو

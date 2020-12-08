@@ -5,20 +5,6 @@ title: "مدیران برند"
 ![my package](modiranebrand.ir.png)
 
 
-## Installation
-
-You can install the package via composer:
-
-```bash
-composer require dpsoft/mehr4-theme-modiranebrand
-```
-```bash
-php artisan mehr4-theme-modiranebrand:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت modiranebrand**
 ____
 ## تغییر تصاویر
 

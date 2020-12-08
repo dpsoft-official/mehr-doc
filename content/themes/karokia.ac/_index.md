@@ -3,20 +3,7 @@ title: "کاروکیا"
 ---
 ![my package](karokia.ac.png)
 
-## Installation
 
-:You can install the package via composer
-
-```bash
-composer require dpsoft/mehr4-theme-minimal
-```
-```bash
-php artisan mehr4-theme-minimal:install
-```
-
-## Usage
-
-**راهنمای  مدیریت سایت karokia.ac**
 ____
 ## تغییر تصاویر
 
