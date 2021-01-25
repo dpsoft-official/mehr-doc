@@ -941,6 +941,18 @@ code {
 i{
   transition: .2s ease;
 }
+
 a:hover i {
   color: var(--primary-color);
+}
+
+.code{
+  font-family: var(--font-family), Vazir;
+  color: #404040;
+  border: 1px solid var(--primary-color);
+  background-color: #f8d7da;
+  padding: 2.4px 6px;
+  font-size: 80%;
+  border-radius: 4px;
+  margin:auto 2px ;
 }
