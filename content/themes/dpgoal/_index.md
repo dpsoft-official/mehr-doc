@@ -141,3 +141,7 @@ ___
 description1 و description2 وdescription3 وdescription4 وdescription5 را تعریف کنید.
 
 ---
+#### آواتار کاربران در بخش نظرات
+
+برای تغییر آواتار به مدیریت فایل و پوشه theme بروید.
+سپس تصویر موردنظر را با نام user.png آپلود نمایید.
