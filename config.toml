@@ -42,6 +42,10 @@ name = "ارتباط با ما"
 url = "contact"
 weight = 5
 
+[[menu.main]]
+name = "راهنمای API"
+url = "swagger"
+weight = 6
 
 
 ############################# Default Parameters ##########################
