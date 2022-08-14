@@ -261,7 +261,6 @@ capacity می توان ظرفیت باقی مانده دوره را مشخص ن�
 
 <a href="/mehr-doc/video/5-quiz_result.mp4" class="video-pop"><i class='ti-video-clapper'></i> نتایج آزمون</a>
 
-
 [بالا↑](#)
 
 ---
