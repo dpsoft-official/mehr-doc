@@ -10,7 +10,6 @@ keywords: [""]
 
 **Dot** has been built to be as configurable as possible.
 
-
 ### Change the logo
 
 In `config.toml` you will find a logo variable. you can change your logo there.
@@ -33,7 +32,6 @@ If you need to change this default behavior, create a new file in `layouts/parti
 
 **Dot** support change color. You can change the colors from `config.toml`. You can change the colors of the template as you want.
 
-
 ```toml
 [params]
   # Change default color scheme with a color name or color code.
@@ -46,7 +44,6 @@ If you need to change this default behavior, create a new file in `layouts/parti
 ```
 
 ### Change default Fonts
-
 
 ```toml
 [params]

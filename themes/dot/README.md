@@ -11,10 +11,10 @@
 
 </div>
 
-Dot, a responsive and feature reach documentation theme ever build in hugo eco system . We have analysised a lot of documentation and knowledge base theme to come up with this design . The readability and the cleaness is also another key feature of this theme. 
-
+Dot, a responsive and feature reach documentation theme ever build in hugo eco system . We have analysised a lot of documentation and knowledge base theme to come up with this design . The readability and the cleaness is also another key feature of this theme.
 
 ### What's New in version 2.0
+
 This template is now in a new layout. You can create page with folder, and also gives required images in this folder. Multilangual is now more fun. No more bugs and issues. It's all like a new experience. Configuration of this theme is now more easier.
 
 **Version 2.0 comes with MIT Licence**
@@ -30,8 +30,8 @@ This template is now in a new layout. You can create page with folder, and also 
 
 ## Demo
 
-| Elements  | FAQ  | Inner Page  | Contact  |
-|---|---|---|---|
+| Elements                                                                                                               | FAQ                                                                                                               | Inner Page                                                                                                          | Contact                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | ![Elements page](https://user-images.githubusercontent.com/37659754/54081094-e1f20c00-4328-11e9-90e8-eeda5e3cb427.png) | ![FAQ page](https://user-images.githubusercontent.com/37659754/54081095-e1f20c00-4328-11e9-8009-24987d98e2d0.png) | ![Inner page](https://user-images.githubusercontent.com/37659754/54081096-e28aa280-4328-11e9-97d2-6eb94da191ca.png) | ![Contact page](https://user-images.githubusercontent.com/37659754/54081093-e1597580-4328-11e9-981b-859b1a7e94d9.png) |
 
 **The images are only for demonstration purpose, Please don't use those images.**
@@ -57,7 +57,7 @@ $ git clone git@github.com:themefisher/dot-hugo-documentation-theme.git
 - Syntax highlighting
 - Multilingual mode
 - Bootstrap 4 Powered
-- Google Analytics 
+- Google Analytics
 - Color Scheme
 - Next/Prev buttons in single post page
 - Contact Page , Faq Page
@@ -71,17 +71,18 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
+If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
 
 ## Hire Us
+
 We are available for Hiring of your next HUGO project. Drop Us a mail [themefisher@gmail.com](mailto:themefisher@gmail.com)
 
 ## Premium Themes
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![GoDocs](https://gethugothemes.com/wp-content/uploads/edd/2020/02/Home-Page-2.png)](https://gethugothemes.com/products/godocs-hugo-documentation-theme/) | [![Academia](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Academia.jpg)](https://gethugothemes.com/products/academia/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **GoDocs**  | **Academia**  |
-| [![Airspace](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-Airspace.jpg)](https://gethugothemes.com/products/airspace-hugo-theme/) | [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![Bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
-| **Airspace** | **Biztrox** | **Bexer** |
-| [![Revolve](https://gethugothemes.com/wp-content/uploads/edd/2019/11/revolve.jpg)](https://gethugothemes.com/products/revolve-hugo/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Revolve** | **RedLab** | **More Hugo Themes** |
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![GoDocs](https://gethugothemes.com/wp-content/uploads/edd/2020/02/Home-Page-2.png)](https://gethugothemes.com/products/godocs-hugo-documentation-theme/) |     [![Academia](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Academia.jpg)](https://gethugothemes.com/products/academia/)      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                   **Hugo Mega Bundle**                                                                   |                                                                         **GoDocs**                                                                         |                                                                **Academia**                                                                 |
+|   [![Airspace](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-Airspace.jpg)](https://gethugothemes.com/products/airspace-hugo-theme/)   |          [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/)           | [![Bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
+|                                                                       **Airspace**                                                                       |                                                                        **Biztrox**                                                                         |                                                                  **Bexer**                                                                  |
+|           [![Revolve](https://gethugothemes.com/wp-content/uploads/edd/2019/11/revolve.jpg)](https://gethugothemes.com/products/revolve-hugo/)           |      [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/)      |          [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/)           |
+|                                                                       **Revolve**                                                                        |                                                                         **RedLab**                                                                         |                                                            **More Hugo Themes**                                                             |

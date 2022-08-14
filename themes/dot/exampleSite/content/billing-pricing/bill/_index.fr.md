@@ -5,21 +5,21 @@ lastmod: 2020-01-05T10:42:26+06:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["money","payment"]
+keywords: ["money", "payment"]
 ---
 
 Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
 
 {{% notice note %}}
-  This is a simple note.
+This is a simple note.
 {{% /notice %}}
 
 {{% notice tip %}}
-  This is a simple tip.
+This is a simple tip.
 {{% /notice %}}
 
 {{% notice info %}}
-  This is a simple info.
+This is a simple info.
 {{% /notice %}}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
