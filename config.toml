@@ -1,14 +1,9 @@
 ################################# Default configuration ###################
-# provide your domain here
 baseURL = "https://dpsoft-official.github.io/mehr-doc/"
-# theme
 theme = "dot"
-# site title
 title = "راهنمای سامانه مهر"
-# disable language
 disableLanguages = []
-# google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = ""
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -65,7 +60,7 @@ white_color = "#ffffff"
 light_color = "#f8f9fa"
 
 # font family
-font_family = "Vazir"
+font_family = "Vazirmatn"
 
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
