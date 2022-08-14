@@ -251,15 +251,15 @@ capacity می توان ظرفیت باقی مانده دوره را مشخص ن�
 
 برای آزمون ها ۵ ویدیو آموزشی تهیه شده است.برای مشاهده بر روی لینک کلیک کنید:
 
-<a href="/video/1-question_import.mp4" class="video-pop"><i class='ti-video-clapper'></i> وارد کردن سوالات</a>
+<a href="/mehr-doc/video/1-question_import.mp4" class="video-pop"><i class='ti-video-clapper'></i> وارد کردن سوالات</a>
 
-<a href="/video/2-question_tag.mp4" class="video-pop"><i class='ti-video-clapper'></i> برچسب زدن سوالات</a>
+<a href="/mehr-doc/video/2-question_tag.mp4" class="video-pop"><i class='ti-video-clapper'></i> برچسب زدن سوالات</a>
 
-<a href="/video/3-quiz_maker.mp4" class="video-pop"><i class='ti-video-clapper'></i> ایجاد آزمون</a>
+<a href="/mehr-doc/video/3-quiz_maker.mp4" class="video-pop"><i class='ti-video-clapper'></i> ایجاد آزمون</a>
 
-<a href="/video/4-quiz_options.mp4" class="video-pop"><i class='ti-video-clapper'></i> تنظیمات آزمون</a>
+<a href="/mehr-doc/video/4-quiz_options.mp4" class="video-pop"><i class='ti-video-clapper'></i> تنظیمات آزمون</a>
 
-<a href="/video/5-quiz_result.mp4" class="video-pop"><i class='ti-video-clapper'></i> نتایج آزمون</a>
+<a href="/mehr-doc/video/5-quiz_result.mp4" class="video-pop"><i class='ti-video-clapper'></i> نتایج آزمون</a>
 
 
 [بالا↑](#)
