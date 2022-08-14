@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://docs.mehrlms.ir/"
+baseURL = "https://dpsoft-official.github.io/mehr-doc/"
 # theme
 theme = "dot"
 # site title
