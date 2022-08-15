@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="mehrlms.ir" id="c2873f58-4a85-47f3-9b65-daab02e09bc3" port="22" nameFormat="DESCRIPTIVE" username="mehrlms" />
-    </configs>
-  </component>
-</project>
