@@ -1,0 +1,479 @@
+openapi: 3.0.1
+info:
+  title: Mehr REST Api
+  description: 'Mehr REST api documentations'
+  version: 0.1.0
+servers:
+  # Added by API Auto Mocking Plugin
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/mohammadms2008/mehrrestapi/0.0.1
+  # -  url: 'http://127.0.0.1:8000/api/mehr'
+  -  url: 'https://karokia.ac/api/mehr'
+paths:
+  '/auth/code/send':
+    post:
+      tags:
+        - auth
+      summary: Send verification code to user
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                mobile:
+                  type: string
+                  description: mobile number that receives the code
+              required:
+                - mobile
+      responses:
+        '200':
+          description: successful operation
+  '/auth/code/verify':
+    post:
+      tags:
+        - auth
+      summary: Verify the code sent by user
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                mobile:
+                  type: string
+                  description: send mobile number
+                code:
+                  type: string
+                  description: send code to be verified
+                device_name:
+                  type: string
+                  description: name of the device
+              required:
+                - mobile
+                - code
+                - device_name
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/x-www-form-urlencoded:
+              schema:
+                properties:
+                  user:
+                    type: object
+                    description: user full info
+                    $ref: '#/components/schemas/User'
+                  token:
+                    type: string
+                    description: API token sent for client to be used for user authenticating
+                    default: '1|zv9uBNRksxmjAWePdtQ4n64B7MO9StGJne2WApZe'
+
+  '/v1/user':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns the authenticated user
+      description: This can only be done by the authenticated user.
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/User'
+    put:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Update an existing user
+      description: This can only be done by the authenticated user.
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                email:
+                  type: string
+                address:
+                  type: string
+                postal_code:
+                  type: string
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/User'
+        400:
+          description: Invalid user supplied
+          content: { }
+        404:
+          description: User not found
+          content: { }
+
+  '/v1/user/courses':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns a list of authenticated user's courses
+      description: This can only be done by the authenticated user.
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      $ref: '#/components/schemas/Course'
+
+  '/v1/user/courses/{course}':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns authenticated user's special course
+      description: This can only be done by the authenticated user.
+      parameters:
+        - name: course
+          in: path
+          description: ID of course to return
+          required: true
+          schema:
+            type: integer
+
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/Course'
+
+  '/v1/user/invoices':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns a list of authenticated user's invoices
+      description: This can only be done by the authenticated user.
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      $ref: '#/components/schemas/Course'
+
+  '/v1/user/payments':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns a list of authenticated user's payments
+      description: This can only be done by the authenticated user.
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      $ref: '#/components/schemas/Course'
+
+  '/v1/user/quizzes/{quiz}':
+    get:
+      tags:
+        - user
+      security:
+        - api_key: []
+      summary: Returns authenticated user's special quiz
+      description: This can only be done by the authenticated user.
+      parameters:
+        - name: quiz
+          in: path
+          description: ID of quiz to return
+          required: true
+          schema:
+            type: integer
+
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/Course'
+
+  '/v1/contact':
+    post:
+      tags:
+        - contact
+      summary: Create a new contact
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  description: sender's name
+                phone:
+                  type: string
+                  description: sender's phone
+                message:
+                  type: string
+                  description: message to be sent
+              required:
+                - name
+                - phone
+                - message
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                    default: true
+                  message:
+                    type: string
+                    default: Success
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/Contact'
+        400:
+          description: Invalid user supplied
+          content: { }
+        404:
+          description: User not found
+          content: { }
+
+  '/v1/comment':
+    post:
+      tags:
+        - post
+        - course
+        - page
+      summary: Create a new comment
+      requestBody:
+        description: if this comment is for a "post", put the following element in responseBody.<br><b>"post"<b>:</b> post_id</b><br>and if is for a "course", put the following element in responseBody.<br><b>"course"<b>:</b> course_id</b><br>and finally if is for a "page", put the following element in responseBody.<br><b>"page"<b>:</b> page_id</b><br>
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  description: sender's name
+                email:
+                  type: string
+                  description: sender's phone
+                body:
+                  type: string
+                  description: message to be sent
+              required:
+                - name
+                - email
+                - body
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                    default: true
+                  message:
+                    type: string
+                    default: Success
+                  data:
+                    type: object
+                    $ref: '#/components/schemas/Comment'
+        400:
+          description: Invalid user supplied
+          content: { }
+        404:
+          description: User not found
+          content: { }
+
+  '/v2/posts':
+    get:
+      tags:
+        - post
+      summary: Returns a list of posts
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                properties:
+                  ok:
+                    type: boolean
+                    default: true
+                  message:
+                    type: string
+                    default: Success
+                  data:
+                    type: array
+                    items:
+                      type: object
+                      $ref: '#/components/schemas/Post'
+        400:
+          description: Invalid user supplied
+          content: { }
+        404:
+          description: User not found
+          content: { }
+
+components:
+  schemas:
+    User:
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        mobile:
+          type: string
+        avatar:
+          type: string
+        address:
+          type: string
+        postal_code:
+          type: string
+        email:
+          type: string
+        created_at:
+          type: integer
+    Contact:
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        phone:
+          type: string
+        message:
+          type: string
+    Comment:
+      properties:
+        id:
+          type: integer
+        body:
+          type: string
+        creator_id:
+          type: integer
+        accepted:
+          type: boolean
+          default: false
+    Post:
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        description:
+          type: string
+        auther_id:
+          type: integer
+        status:
+          type: string
+          enum: [PUBLISHED, ARCHIVED, DRAFT]
+    Course:
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        description:
+          type: string
+        category_id:
+          type: integer
+        status:
+          type: string
+          enum: [PUBLISHED, ARCHIVED, DRAFT, PENDING]
+    Page:
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        content:
+          type: string
+  securitySchemes:
+    api_key:
+      type: apiKey
+      name: Authorization
+      in: header
