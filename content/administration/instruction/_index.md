@@ -19,6 +19,7 @@ title: "آموزش "
   - [آزمون ها](#آزمون-ها)
 
 - [ کلاس آنلاین](#کلاس-آنلاین)
+- [ BigBlueButton](#BigBlueButton)
 - [ گروه ها](#گروه-ها)
 - [دسته بندی](#دسته-بندی)
 
@@ -260,6 +261,24 @@ capacity می توان ظرفیت باقی مانده دوره را مشخص ن�
 <a href="/mehr-doc/video/4-quiz_options.mp4" class="video-pop"><i class='ti-video-clapper'></i> تنظیمات آزمون</a>
 
 <a href="/mehr-doc/video/5-quiz_result.mp4" class="video-pop"><i class='ti-video-clapper'></i> نتایج آزمون</a>
+
+[بالا↑](#)
+
+---
+
+####BigBlueButton
+
+برای برگزاری کلاس آنلاین با BigBlueButton ویدیو آموزشی را ببینید.برای مشاهده بر روی لینک کلیک کنید:
+
+<a href="/mehr-doc/video/bbb/1-mehr_bbb_config.mp4" class="video-pop"><i class='ti-video-clapper'></i> تنظیم BigBlueButton</a>
+
+<a href="/mehr-doc/video/bbb/2-mehr_bbb_create.mp4" class="video-pop"><i class='ti-video-clapper'></i> ایجاد کلاس آنلاین</a>
+
+<a href="/mehr-doc/video/bbb/3-mehr_bbb_dispaly.mp4" class="video-pop"><i class='ti-video-clapper'></i> نحوه‌ی نمایش کلاس</a>
+
+<a href="/mehr-doc/video/bbb/4-mehr_bbb_section.mp4" class="video-pop"><i class='ti-video-clapper'></i> استفاده از کلاس در گروه ها</a>
+
+<a href="/mehr-doc/video/bbb/5-mehr_bbb_join.mp4" class="video-pop"><i class='ti-video-clapper'></i> اجرای کلاس آنلاین و حضور و غیاب</a>
 
 [بالا↑](#)
 
