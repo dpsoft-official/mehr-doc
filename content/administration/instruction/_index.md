@@ -19,7 +19,7 @@ title: "آموزش "
   - [آزمون ها](#آزمون-ها)
 
 - [ کلاس آنلاین](#کلاس-آنلاین)
-- [ BigBlueButton](#BigBlueButton)
+- [ BigBlueButton](#bigbluebutton)
 - [ گروه ها](#گروه-ها)
 - [دسته بندی](#دسته-بندی)
 
