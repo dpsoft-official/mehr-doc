@@ -12,22 +12,21 @@ title: "قفل‌گذاری محتوا"
 
 برای فعالسازی این کارها را به ترتیب انجام دهید:
 
-+  اجرای فایل زیر بر روی سیستم کاربر:
-    + [hami_activator_v1.zip](hami_activator_v1.zip)
-    + ![hami_offline_activator_run.png](hami_offline_activator_run.png)
-+ یادداشت کردن system key
-+ در سامانه آموزشی مهر به منوی کاربران رفته و از منوی عملیات «کد فعالسازی قفل» را اجرا میکنیم:
+- اجرای فایل زیر بر روی سیستم کاربر:
+  - [hami_activator_v1.zip](hami_activator_v1.zip)
+  - ![hami_offline_activator_run.png](hami_offline_activator_run.png)
+- یادداشت کردن system key
+- در سامانه آموزشی مهر به منوی کاربران رفته و از منوی عملیات «کد فعالسازی قفل» را اجرا میکنیم:
 
-    + ![mehr-gen-code-modal.png](mehr-gen-code-modal.png)
-+ در قسمت system key مقدار یادداشت شده از سیستم کاربر را وارد می‌کنیم.
-+ در قسمت product key کد قفل محصول مورد نظر برای فعالسازی را وارد میکنیم.
-+ دکمه‌ی تولید کد را کلیک کرده و در صفحه‌ی جدید عدد تولید شده را یادداشت می‌کنیم.
-    + ![mehr-gen-code.png](mehr-gen-code.png)
-+ به سیستم کاربر برگشته و در قسمت AuthKey کد تولید شده در مرحله‌ی قبل را وارد میکنیم. و در قسمت product key کد قفل مورد نظر را وارد می‌کنیم:
-    + ![hami_offline_activate.png](hami_offline_activate.png)
-+ دکمه‌ی Activate را کلیک میکنیم. پیغام فعالسازی ظاهر خواهد شد و کاربر می تواند به مشاهده‌ی دوره بر روی سیستم بپردازد:
-    + ![hami_activator_click_button.png](hami_activator_click_button.png)
+  - ![mehr-gen-code-modal.png](mehr-gen-code-modal.png)
 
-> **توجه**<br>
-> _این فایل فعالسازی را بر روی DVD دوره ها قرار ندهید._<br>
-> _فایل فعالسازی که بر روی سیستم کاربر اجرا شده را پاک کنید._
+- در قسمت system key مقدار یادداشت شده از سیستم کاربر را وارد می‌کنیم.
+- در قسمت product key کد قفل محصول مورد نظر برای فعالسازی را وارد میکنیم.
+- دکمه‌ی تولید کد را کلیک کرده و در صفحه‌ی جدید عدد تولید شده را یادداشت می‌کنیم.
+  - ![mehr-gen-code.png](mehr-gen-code.png)
+- به سیستم کاربر برگشته و در قسمت AuthKey کد تولید شده در مرحله‌ی قبل را وارد میکنیم. و در قسمت product key کد قفل مورد نظر را وارد می‌کنیم:
+  - ![hami_offline_activate.png](hami_offline_activate.png)
+- دکمه‌ی Activate را کلیک میکنیم. پیغام فعالسازی ظاهر خواهد شد و کاربر می تواند به مشاهده‌ی دوره بر روی سیستم بپردازد:
+  - ![hami_activator_click_button.png](hami_activator_click_button.png)
+
+> **توجه**<br> > _این فایل فعالسازی را بر روی DVD دوره ها قرار ندهید._<br> > _فایل فعالسازی که بر روی سیستم کاربر اجرا شده را پاک کنید._
