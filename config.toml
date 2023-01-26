@@ -23,24 +23,29 @@ url = "administration"
 weight = 2
 
 [[menu.main]]
+name = "قفل"
+url = "lock"
+weight = 3
+
+[[menu.main]]
 name = "قالب ها"
 url = "themes"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "سوالات متداول"
 url = "faq"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "ارتباط با ما"
 url = "contact"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "راهنمای API"
 url = "swagger"
-weight = 6
+weight = 7
 
 
 ############################# Default Parameters ##########################
