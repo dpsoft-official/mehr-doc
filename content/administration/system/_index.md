@@ -291,6 +291,8 @@ https://example.com/login
 
 ![](pm3.png)
 
+> <i class='fas fa-exclamation-triangle' style='font-size:20px;color:gray;margin-left:15px'></i>
+> امکان ارجاع پیام تنها به کاربرانی وجود دارد که مجوز دسترسی به این بخش را دارند.
 
 [بالا↑](#)
 
