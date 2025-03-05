@@ -45,7 +45,7 @@
         {{ end }}
       </ul>
       <!-- Language List -->
-      {{- if .hugo.IsMultiLingual }}
+      {{- if .Site.IsMultiLingual }}
       <select class="lang-list {{ if not .IsHome }}dark{{ end }}" id="select-language"
         onchange="location = this.value;">
         {{ $siteLanguages := .Site.Languages}}
